@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact name="jar 1">
+    <output-path>$PROJECT_DIR$/out/artifacts/jar_1</output-path>
+    <root id="root">
+      <element id="archive" name="math-util-se1867.jar">
+        <element id="module-output" name="math-util-se1867" />
+        <element id="module-test-output" name="math-util-se1867" />
+      </element>
+      <element id="library" level="project" name="Maven: org.junit.jupiter:junit-jupiter:5.11.0" />
+      <element id="library" level="project" name="Maven: org.opentest4j:opentest4j:1.3.0" />
+      <element id="library" level="project" name="Maven: org.junit.jupiter:junit-jupiter-params:5.11.0" />
+      <element id="library" level="project" name="Maven: org.junit.platform:junit-platform-engine:1.11.0" />
+      <element id="library" level="project" name="Maven: org.junit.platform:junit-platform-commons:1.11.0" />
+      <element id="library" level="project" name="Maven: org.apiguardian:apiguardian-api:1.1.2" />
+      <element id="library" level="project" name="Maven: com.microsoft.sqlserver:mssql-jdbc:12.8.1.jre11" />
+      <element id="library" level="project" name="Maven: org.junit.jupiter:junit-jupiter-api:5.11.0" />
+      <element id="library" level="project" name="Maven: org.junit.jupiter:junit-jupiter-engine:5.11.0" />
+    </root>
+  </artifact>
+</component>
