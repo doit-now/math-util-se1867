@@ -1,3 +1,5 @@
+[![Math Utility Project (CI included) Ngọc Trinh](https://github.com/doit-now/math-util-se1867/actions/workflows/ci-script.yml/badge.svg)](https://github.com/doit-now/math-util-se1867/actions/workflows/ci-script.yml)
+
 # Math Utility (Maven project)
 
 ## Welcome to Math Utility project 
